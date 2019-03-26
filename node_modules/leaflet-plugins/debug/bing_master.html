@@ -1,0 +1,28 @@
+<html>
+<head>
+	<title>Bing // Leaflet One</title>
+	<link rel="stylesheet" href="leaflet-master/leaflet.css" />
+	<script src="leaflet-master/leaflet-src.js"></script>
+	<script src="../layer/tile/Bing.js"></script>
+</head>
+<body>
+	<div style="width:100%; height:100%" id="map"></div>
+<script type='text/javascript'>
+var map = new L.Map('map', {center: new L.LatLng(48, -4), zoom: 10 });
+var osm = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+var bing = new L.BingLayer("Ao6yUz6rvWy9-qbCbeQWUxHznU44d30aewQurIC3ppBp8xtW0_7mkKu1im0yesDE");
+var bing2 = new L.BingLayer("Ao6yUz6rvWy9-qbCbeQWUxHznU44d30aewQurIC3ppBp8xtW0_7mkKu1im0yesDE", {
+	type: 'Road',
+	culture: 'fr-FR'
+});
+map.addLayer(bing);
+map.addControl(new L.Control.Layers({'OSM':osm, "Bing":bing, "Bing Road": bing2}, {}));
+map.on('click', function(e) { alert(e.latlng); });
+function flyTo(){
+	map.flyTo([51.5, -0.09], 13);
+}
+</script>
+<a onclick="flyTo()">Fly baby fly!</a>
+ 
+</body>
+</html>

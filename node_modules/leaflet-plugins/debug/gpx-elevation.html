@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>Leaflet</title>
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+	<link rel="stylesheet" href="leaflet-elevation/leaflet.elevation-0.0.4.css" />
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+	<script src="leaflet-elevation/leaflet.elevation-0.0.4.src.js"></script>
+	<script src="../layer/vector/GPX.js"></script>
+</head>
+<body>
+	<!-- define a DIV into which the map will appear. Make it take up the whole window -->
+	<div style="width:100%; height:100%" id="map"></div>
+<script type='text/javascript'>
+var map = new L.Map('map', {center: new L.LatLng(58.4, 43.0), zoom: 11});
+var osm = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+
+var track = new L.GPX("data/demo.gpx", {async: true})
+	.on("loaded", function(e) { map.fitBounds(e.target.getBounds()); });
+
+map.addLayer(track);
+map.addLayer(osm);
+
+var el = L.control.elevation();
+el.addTo(map);
+
+var g = new L.GPX("data/demo.gpx", {async: true});
+g.on("addline",function(e){
+    el.addData(e.line);
+});
+g.addTo(map);
+
+</script>
+ 
+</body>
+</html>

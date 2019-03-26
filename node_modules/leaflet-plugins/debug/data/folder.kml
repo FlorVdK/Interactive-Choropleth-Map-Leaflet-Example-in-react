@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Folder>
+            <name>Sheet1</name>
+            <Style id="cb58d702">
+                <IconStyle id="point-yy">
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0.0</heading>
+                    <Icon>
+                        <href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+                        <refreshInterval>0.0</refreshInterval>
+                        <viewRefreshTime>0.0</viewRefreshTime>
+                        <viewBoundScale>0.0</viewBoundScale>
+                    </Icon>
+                    <hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
+                </IconStyle>
+            </Style>
+            <Placemark>
+                <name>Moscow</name>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>No Description</description>
+                <styleUrl>#cb58d702</styleUrl>
+                <Point>
+                    <coordinates>37.528861,55.652639</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

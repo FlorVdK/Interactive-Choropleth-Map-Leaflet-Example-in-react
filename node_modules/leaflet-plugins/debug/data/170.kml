@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+  <Style id="style">
+        <IconStyle>
+            <Icon>
+                <href>http://www.nablawiki.ru/images/NablaIcons/E/0/uik0001-e.png</href>
+            </Icon>
+	    <hotSpot x="0.256" y="0" xunits="fraction" yunits="fraction" />
+        </IconStyle>
+  </Style>
+  <Placemark>
+    <name>place1</name>
+    <styleUrl>#style</styleUrl>
+    <Point>
+      <coordinates>37.939798,55.792397</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>place2</name>
+  <Style>
+        <IconStyle>
+            <Icon>
+                <href>http://www.nablawiki.ru/images/NablaIcons/E/0/uik0001-e.png</href>
+            </Icon>
+	    <hotSpot x="0.256" y="0" xunits="fraction" yunits="fraction" />
+        </IconStyle>
+  </Style>
+    <Point>
+      <coordinates>37.931983,55.791501</coordinates>
+    </Point>
+  </Placemark>
+ </Folder>
+  </Document>
+ </kml>

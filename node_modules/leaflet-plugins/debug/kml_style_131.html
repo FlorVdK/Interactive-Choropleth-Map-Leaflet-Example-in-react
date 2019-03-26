@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Leaflet</title>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+<script src="leaflet-src.js"></script>
+<script src="../layer/vector/KML.js"></script>
+</head>
+<body>
+
+<div style="width:100%; height:100%" id="map"></div>
+<script type='text/javascript'>
+var map = new L.Map('map', {center: new L.LatLng(55.792397,37.939798), zoom: 6});
+var osm = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+var track = new L.KML("data/style.kml", {async: true}).addTo(map);
+console.log(track);
+track.on("loaded", function(e) {
+	//console.log(e.target.getBounds());
+	map.fitBounds(e.target.getBounds());
+});
+map.addControl(new L.Control.Layers({}, {'Track':track}));
+</script>

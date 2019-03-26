@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1" xmlns:flickr="urn:flickr:">
+
+
+<NetworkLinkControl>
+	<minRefreshPeriod>900</minRefreshPeriod>
+</NetworkLinkControl>
+
+<Document>
+
+	<name>Content from 1. Landscape</name>
+	<open>1</open>
+
+	
+	
+	<Style id="normal/photo/13305044723/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2840/13305044723_5543ed35c1_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/13305044723/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2840/13305044723_5543ed35c1_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/13305044723/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/13305044723/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/13305044723/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/13620180214/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3778/13620180214_b886b791f3_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/13620180214/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3778/13620180214_b886b791f3_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/13620180214/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/13620180214/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/13620180214/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14057005097/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5200/14057005097_0669af3787_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14057005097/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5200/14057005097_0669af3787_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14057005097/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14057005097/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14057005097/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14623590153/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5546/14623590153_3758ce7eb1_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14623590153/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5546/14623590153_3758ce7eb1_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14623590153/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14623590153/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14623590153/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14681328601/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3897/14681328601_233b93c637_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14681328601/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3897/14681328601_233b93c637_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14681328601/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14681328601/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14681328601/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14497852880/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3874/14497852880_18e28e29de_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14497852880/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3874/14497852880_18e28e29de_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14497852880/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14497852880/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14497852880/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14987461182/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5590/14987461182_fde49264a1_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14987461182/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5590/14987461182_fde49264a1_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14987461182/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14987461182/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14987461182/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/13240893703/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3831/13240893703_b4837ed5b0_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/13240893703/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3831/13240893703_b4837ed5b0_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/13240893703/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/13240893703/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/13240893703/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14548852944/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2921/14548852944_6bbf1ffe2f_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14548852944/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2921/14548852944_6bbf1ffe2f_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14548852944/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14548852944/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14548852944/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14742260035/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2908/14742260035_105614e769_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14742260035/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2908/14742260035_105614e769_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14742260035/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14742260035/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14742260035/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/15050382741/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3886/15050382741_1896fddbf3_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/15050382741/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3886/15050382741_1896fddbf3_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/15050382741/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/15050382741/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/15050382741/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/15044614275/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3883/15044614275_1566991c35_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/15044614275/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3883/15044614275_1566991c35_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/15044614275/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/15044614275/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/15044614275/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14858062257/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3925/14858062257_a90fa2d93d_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14858062257/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3925/14858062257_a90fa2d93d_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14858062257/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14858062257/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14858062257/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/15019539596/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3925/15019539596_50aa458bdd_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/15019539596/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3925/15019539596_50aa458bdd_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/15019539596/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/15019539596/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/15019539596/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14424919433/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5477/14424919433_1195aa2008_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14424919433/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5477/14424919433_1195aa2008_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14424919433/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14424919433/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14424919433/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14482624830/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3838/14482624830_5ba40a6084_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14482624830/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm4.staticflickr.com/3838/14482624830_5ba40a6084_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14482624830/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14482624830/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14482624830/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14464643617/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2909/14464643617_38be75f2a4_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14464643617/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2909/14464643617_38be75f2a4_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14464643617/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14464643617/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14464643617/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/14263761923/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5503/14263761923_7a301b3509_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/14263761923/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm6.staticflickr.com/5503/14263761923_7a301b3509_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/14263761923/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/14263761923/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/14263761923/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/13967984395/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm8.staticflickr.com/7080/13967984395_de5f5cdfde_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/13967984395/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm8.staticflickr.com/7080/13967984395_de5f5cdfde_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/13967984395/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/13967984395/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/13967984395/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/13944884236/in/set-72157646312747350">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2912/13944884236_0048619e63_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/13944884236/in/set-72157646312747350">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://farm3.staticflickr.com/2912/13944884236_0048619e63_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/13944884236/in/set-72157646312747350">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/13944884236/in/set-72157646312747350</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/13944884236/in/set-72157646312747350</styleUrl>
+      </Pair>
+    </StyleMap>
+
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/13305044723/in/set-72157646312747350</styleUrl>
+			<name>200. Smoo</name>
+			<Snippet maxLines="4">
+				From Mark Godden on Facebook
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/13305044723/in/set-72157646312747350/"><img src="https://farm3.staticflickr.com/2840/13305044723_5543ed35c1.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/13305044723/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/13305044723/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					From Mark Godden on Facebook<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> March 21st, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_tag_left.gif" />  <a href="https://api.flickr.com/services/feeds/geo/?tags=vision:mountain=0796&amp;format=kml_nl&amp;lang=en-us">vision:mountain=0796</a>,&amp;nbsp; <a href="https://api.flickr.com/services/feeds/geo/?tags=vision:outdoor=0983&amp;format=kml_nl&amp;lang=en-us">vision:outdoor=0983</a>,&amp;nbsp; <a href="https://api.flickr.com/services/feeds/geo/?tags=vision:sky=0985&amp;format=kml_nl&amp;lang=en-us">vision:sky=0985</a>,&amp;nbsp; <a href="https://api.flickr.com/services/feeds/geo/?tags=vision:clouds=0937&amp;format=kml_nl&amp;lang=en-us">vision:clouds=0937</a> ...<br />					<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/13620180214/in/set-72157646312747350</styleUrl>
+			<name>128. Golden Cap, Jurassic Coast World Heritage Site</name>
+			<Snippet maxLines="4">
+				From Geraint Owen @gerainthowen<br />
+<br />
+Golden Cap is a hill and cliff situated on the English Channel coast between Bridport and Charmouth in Dorset, England. The cliffs are the highest point on the south coast of Great Britain. The name derives from the distinctive outcropping of golden greensand rock present at the very top of the cliff.<br />
+<br />
+The hill is owned by the National Trust and forms part of the Jurassic Coast, a World Heritage Site. (Wikipedia)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/13620180214/in/set-72157646312747350/"><img src="https://farm4.staticflickr.com/3778/13620180214_b886b791f3.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/13620180214/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/13620180214/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					From Geraint Owen @gerainthowen<br />
+<br />
+Golden Cap is a hill and cliff situated on the English Channel coast between Bridport and Charmouth in Dorset, England. The cliffs are the highest point on the south coast of Great Britain. The name derives from the distinctive outcropping of golden greensand rock present at the very top of the cliff.<br />
+<br />
+The hill is owned by the National Trust and forms part of the Jurassic Coast, a World Heritage Site. (Wikipedia)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> April 4th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14057005097/in/set-72157646312747350</styleUrl>
+			<name>276. Ben Nevis</name>
+			<Snippet maxLines="4">
+				Ben Nevis is the highest mountain in the British Isles. Standing at 1,344 metres (4,409 ft) above sea level, it is located at the western end of the Grampian Mountains in the Lochaber area of the Scottish Highlands, close to the town of Fort William. Ben Nevis is all that remains of a Devonian volcano that met a cataclysmic end in the Carboniferous period around 350 million years ago. Evidence near the summit shows light coloured granite (which had cooled in subterranean chambers several kilometres beneath the surface) lies among dark basaltic lavas (that only form on the surface). (Wikipedia)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14057005097/in/set-72157646312747350/"><img src="https://farm6.staticflickr.com/5200/14057005097_0669af3787.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14057005097/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14057005097/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					Ben Nevis is the highest mountain in the British Isles. Standing at 1,344 metres (4,409 ft) above sea level, it is located at the western end of the Grampian Mountains in the Lochaber area of the Scottish Highlands, close to the town of Fort William. Ben Nevis is all that remains of a Devonian volcano that met a cataclysmic end in the Carboniferous period around 350 million years ago. Evidence near the summit shows light coloured granite (which had cooled in subterranean chambers several kilometres beneath the surface) lies among dark basaltic lavas (that only form on the surface). (Wikipedia)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> May 22nd, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14623590153/in/set-72157646312747350</styleUrl>
+			<name>163. Lundy (3)</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14623590153/in/set-72157646312747350/"><img src="https://farm6.staticflickr.com/5546/14623590153_3758ce7eb1.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14623590153/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14623590153/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> July 8th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14681328601/in/set-72157646312747350</styleUrl>
+			<name>190. Folkeston Warren landslide 2</name>
+			<Snippet maxLines="4">
+				From @laurennotes<br />
+<br />
+The Folkestone Warren landslide is a very large, deep-seated coastal landslide that is well known to geologists and engineers. It is about 3 km wide, and up to 350 m in length. (&lt;a href=&quot;http://www.bgs.ac.uk&quot; rel=&quot;nofollow&quot;&gt;www.bgs.ac.uk&lt;/a&gt;)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14681328601/in/set-72157646312747350/"><img src="https://farm4.staticflickr.com/3897/14681328601_233b93c637.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14681328601/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14681328601/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					From @laurennotes<br />
+<br />
+The Folkestone Warren landslide is a very large, deep-seated coastal landslide that is well known to geologists and engineers. It is about 3 km wide, and up to 350 m in length. (&lt;a href=&quot;http://www.bgs.ac.uk&quot; rel=&quot;nofollow&quot;&gt;www.bgs.ac.uk&lt;/a&gt;)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> July 18th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14497852880/in/set-72157646312747350</styleUrl>
+			<name>190. Folkestone Warren landslide</name>
+			<Snippet maxLines="4">
+				&amp;quot;Last 35mm I took was of my favourite place in the world. Oh what a landslide!&amp;quot; From @laurennotes<br />
+<br />
+The Folkestone Warren landslide is a very large, deep-seated coastal landslide that is well known to geologists and engineers. It is about 3 km wide, and up to 350 m in length. (&lt;a href=&quot;http://www.bgs.ac.uk&quot; rel=&quot;nofollow&quot;&gt;www.bgs.ac.uk&lt;/a&gt;)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14497852880/in/set-72157646312747350/"><img src="https://farm4.staticflickr.com/3874/14497852880_18e28e29de.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14497852880/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14497852880/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					&amp;quot;Last 35mm I took was of my favourite place in the world. Oh what a landslide!&amp;quot; From @laurennotes<br />
+<br />
+The Folkestone Warren landslide is a very large, deep-seated coastal landslide that is well known to geologists and engineers. It is about 3 km wide, and up to 350 m in length. (&lt;a href=&quot;http://www.bgs.ac.uk&quot; rel=&quot;nofollow&quot;&gt;www.bgs.ac.uk&lt;/a&gt;)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> July 18th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14987461182/in/set-72157646312747350</styleUrl>
+			<name>101. Corrieshalloch Gorge (2)</name>
+			<Snippet maxLines="4">
+				From Igor Bagno @igorbagno<br />
+<br />
+Corrieshalloch Gorge is situated on the Droma River 20 km S of Ullapool in the Scottish Highlands. It is 1.5 km long, 60m deep and formed at the end of the last ice age (10-13,000Y BP) by rapid erosion caused by meltwater. The 46m Falls of Measach can be viewed from a viewing platform and a Victorian suspension footbridge. (Wikipedia)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14987461182/in/set-72157646312747350/"><img src="https://farm6.staticflickr.com/5590/14987461182_fde49264a1.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14987461182/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14987461182/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					From Igor Bagno @igorbagno<br />
+<br />
+Corrieshalloch Gorge is situated on the Droma River 20 km S of Ullapool in the Scottish Highlands. It is 1.5 km long, 60m deep and formed at the end of the last ice age (10-13,000Y BP) by rapid erosion caused by meltwater. The 46m Falls of Measach can be viewed from a viewing platform and a Victorian suspension footbridge. (Wikipedia)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> August 21st, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/13240893703/in/set-72157646312747350</styleUrl>
+			<name>199. Sharpenhoe Clappers</name>
+			<Snippet maxLines="4">
+				Reputedly haunted, Sharpenhoe Clappers is a classic chalk escarpment and part of the Chilterns Area of Outstanding Natural Beauty. It is crowned with traces of an Iron Age hill-fort and an impressive beech wood. From Darren Eddy on Facebook.
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/13240893703/in/set-72157646312747350/"><img src="https://farm4.staticflickr.com/3831/13240893703_b4837ed5b0.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/13240893703/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/13240893703/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					Reputedly haunted, Sharpenhoe Clappers is a classic chalk escarpment and part of the Chilterns Area of Outstanding Natural Beauty. It is crowned with traces of an Iron Age hill-fort and an impressive beech wood. From Darren Eddy on Facebook.<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> March 18th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_tag_left.gif" />  <a href="https://api.flickr.com/services/feeds/geo/?tags=vision:outdoor=099&amp;format=kml_nl&amp;lang=en-us">vision:outdoor=099</a>,&amp;nbsp; <a href="https://api.flickr.com/services/feeds/geo/?tags=vision:sky=0738&amp;format=kml_nl&amp;lang=en-us">vision:sky=0738</a>,&amp;nbsp; <a href="https://api.flickr.com/services/feeds/geo/?tags=100geosites&amp;format=kml_nl&amp;lang=en-us">100geosites</a><br />					<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14548852944/in/set-72157646312747350</styleUrl>
+			<name>200. Smoo Cave</name>
+			<Snippet maxLines="4">
+				' I think it's a pretty unique geological feature as it is both a sea cave and freshwater cave, but also that due to isostatic uplift from glaciation, the sea no longer enters the cave, (we could probably even get an idea of the rate of uplift). Culturally, it's an important archaeological site due to artifacts found within that suggest use by early Holocene people and, later, the Vikings.' From Laura Hayes on Facebook.
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14548852944/in/set-72157646312747350/"><img src="https://farm3.staticflickr.com/2921/14548852944_6bbf1ffe2f.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14548852944/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14548852944/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					' I think it's a pretty unique geological feature as it is both a sea cave and freshwater cave, but also that due to isostatic uplift from glaciation, the sea no longer enters the cave, (we could probably even get an idea of the rate of uplift). Culturally, it's an important archaeological site due to artifacts found within that suggest use by early Holocene people and, later, the Vikings.' From Laura Hayes on Facebook.<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> July 1st, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14742260035/in/set-72157646312747350</styleUrl>
+			<name>334. Avon Gorge</name>
+			<Snippet maxLines="4">
+				'Spectacular geology right on the doorstep of one of the UK's biggest cities. Steep cliffs carved out by the River Avon during the time of the Ice Ages reveal rocks laid down 350 million years ago in a shallow tropical sea. Look out from Brunel's amazing suspension bridge, or explore fossils, faults and features close up along one of the Gorge's paths. At Bristol Museum &amp;amp; Art Gallry, see 'Bristol diamonds' (quartz geodes!) first collected from the Gorge by locals and tourists hundreds of years ago and said to have been made into jewellery, and early paintings of the Gorge by a young Turner - inspired by its amazing scenery.' From Isla Gladstone by e mail
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14742260035/in/set-72157646312747350/"><img src="https://farm3.staticflickr.com/2908/14742260035_105614e769.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14742260035/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14742260035/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					'Spectacular geology right on the doorstep of one of the UK's biggest cities. Steep cliffs carved out by the River Avon during the time of the Ice Ages reveal rocks laid down 350 million years ago in a shallow tropical sea. Look out from Brunel's amazing suspension bridge, or explore fossils, faults and features close up along one of the Gorge's paths. At Bristol Museum &amp;amp; Art Gallry, see 'Bristol diamonds' (quartz geodes!) first collected from the Gorge by locals and tourists hundreds of years ago and said to have been made into jewellery, and early paintings of the Gorge by a young Turner - inspired by its amazing scenery.' From Isla Gladstone by e mail<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> July 25th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/15050382741/in/set-72157646312747350</styleUrl>
+			<name>114. Welsh Borderland, Ordovician Limestone Edges (geoexpro.com)</name>
+			<Snippet maxLines="4">
+				From @gerainthowen <br />
+<br />
+The Welsh Borderland Fault System is a zone of faulting and associated folding which runs northeastwards through Wales from Pembrokeshire through Carmarthenshire and Powys into Shropshire in England. The system was active during the Caledonian Orogeny and was reactivated during the later Variscan Orogeny. (Wikipedia)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/15050382741/in/set-72157646312747350/"><img src="https://farm4.staticflickr.com/3886/15050382741_1896fddbf3.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/15050382741/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/15050382741/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					From @gerainthowen <br />
+<br />
+The Welsh Borderland Fault System is a zone of faulting and associated folding which runs northeastwards through Wales from Pembrokeshire through Carmarthenshire and Powys into Shropshire in England. The system was active during the Caledonian Orogeny and was reactivated during the later Variscan Orogeny. (Wikipedia)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> September 8th, 2008&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/15044614275/in/set-72157646312747350</styleUrl>
+			<name>222. Raised Beach at Loch Tarbert, Jura (geograph.org.uk)</name>
+			<Snippet maxLines="4">
+				The west coast of Jura is internationally important for its superb examples of raised shore platforms and raised beaches. These landforms reflect changes in relative sea level associated with the growth and decay of ice sheets during the Quaternary Ice Age. During glacial periods, sea level fell as expanding ice sheets locked up the world’s fresh waters, and rose again during interglacials when the glaciers melted and released their water back into the sea. (&lt;a href=&quot;http://www.scottishgeology.com&quot; rel=&quot;nofollow&quot;&gt;www.scottishgeology.com&lt;/a&gt;)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/15044614275/in/set-72157646312747350/"><img src="https://farm4.staticflickr.com/3883/15044614275_1566991c35.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/15044614275/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/15044614275/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					The west coast of Jura is internationally important for its superb examples of raised shore platforms and raised beaches. These landforms reflect changes in relative sea level associated with the growth and decay of ice sheets during the Quaternary Ice Age. During glacial periods, sea level fell as expanding ice sheets locked up the world’s fresh waters, and rose again during interglacials when the glaciers melted and released their water back into the sea. (&lt;a href=&quot;http://www.scottishgeology.com&quot; rel=&quot;nofollow&quot;&gt;www.scottishgeology.com&lt;/a&gt;)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> August 26th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14858062257/in/set-72157646312747350</styleUrl>
+			<name>402. Kinloch Hourn (geograph.org.uk)</name>
+			<Snippet maxLines="4">
+				Inner Loch Hourn, remote, narrow and enclosed by steep sided hills, is perhaps the most fjord-like of any sea loch in<br />
+Scotland. With its often sombre and gloomy atmosphere, and the wind funnelling down its length, it perhaps<br />
+deserves a name given to it, ‘Loch of Hell’, particularly in winter when the low sun finds it hard to enter.
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14858062257/in/set-72157646312747350/"><img src="https://farm4.staticflickr.com/3925/14858062257_a90fa2d93d.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14858062257/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14858062257/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					Inner Loch Hourn, remote, narrow and enclosed by steep sided hills, is perhaps the most fjord-like of any sea loch in<br />
+Scotland. With its often sombre and gloomy atmosphere, and the wind funnelling down its length, it perhaps<br />
+deserves a name given to it, ‘Loch of Hell’, particularly in winter when the low sun finds it hard to enter.<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> June 29th, 2003&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/15019539596/in/set-72157646312747350</styleUrl>
+			<name>128. Golden Cap, Jurassic Coast World Heritage Site</name>
+			<Snippet maxLines="4">
+				From @Gerainthowen <br />
+<br />
+Golden Cap is a hill and cliff situated on the English Channel coast between Bridport and Charmouth in Dorset, England. The cliffs are the highest point on the south coast of Great Britain. The name derives from the distinctive outcropping of golden greensand rock present at the very top of the cliff.<br />
+<br />
+The hill is owned by the National Trust and forms part of the Jurassic Coast, a World Heritage Site. (Wikipedia)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/15019539596/in/set-72157646312747350/"><img src="https://farm4.staticflickr.com/3925/15019539596_50aa458bdd.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/15019539596/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/15019539596/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					From @Gerainthowen <br />
+<br />
+Golden Cap is a hill and cliff situated on the English Channel coast between Bridport and Charmouth in Dorset, England. The cliffs are the highest point on the south coast of Great Britain. The name derives from the distinctive outcropping of golden greensand rock present at the very top of the cliff.<br />
+<br />
+The hill is owned by the National Trust and forms part of the Jurassic Coast, a World Heritage Site. (Wikipedia)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> August 26th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14424919433/in/set-72157646312747350</styleUrl>
+			<name>277. Bidean nam Bian</name>
+			<Snippet maxLines="4">
+				&amp;quot;Bidean nam Bian and the Glen Coe caldera from near Ardgour in Lochaber Geopark. The Glen Coe caldera, about the same age as Ben Nevis, was the first recognized anywhere in the world in ancient rocks.&amp;quot; From Lochaber Geopark on Facebook<br />
+<br />
+Bidean nam Bian, lying to the south of Glen Coe, Highland, Scotland, is the highest point in the former county of Argyll. It is a complex mountain, with many ridges and subsidiary peaks, one of which, Stob Coire Sgreamhach, is classified as a separate Munro. (Wikipedia)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14424919433/in/set-72157646312747350/"><img src="https://farm6.staticflickr.com/5477/14424919433_1195aa2008.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14424919433/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14424919433/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					&amp;quot;Bidean nam Bian and the Glen Coe caldera from near Ardgour in Lochaber Geopark. The Glen Coe caldera, about the same age as Ben Nevis, was the first recognized anywhere in the world in ancient rocks.&amp;quot; From Lochaber Geopark on Facebook<br />
+<br />
+Bidean nam Bian, lying to the south of Glen Coe, Highland, Scotland, is the highest point in the former county of Argyll. It is a complex mountain, with many ridges and subsidiary peaks, one of which, Stob Coire Sgreamhach, is classified as a separate Munro. (Wikipedia)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> June 12th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14482624830/in/set-72157646312747350</styleUrl>
+			<name>359. Afon Cwm Llan and Watkin Path (geograph.org.uk)</name>
+			<Snippet maxLines="4">
+				'The Watkin path was named after Sir Edward Watkin, Liberal Member of Parliament and railway entrepreneur who retired to a chalet in Cwm Llan on the foothills of Snowdon.......' From David Shilston, Geological Society President 2012-2014, on the Geolsoc Blog (&lt;a href=&quot;http://blog.geolsoc.org.uk/2014/05/23/100-great-geosites-nomination-afon-cwm-llan-and-the-watkin-path-snowdon/&quot; rel=&quot;nofollow&quot;&gt;blog.geolsoc.org.uk/2014/05/23/100-great-geosites-nominat...&lt;/a&gt;)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14482624830/in/set-72157646312747350/"><img src="https://farm4.staticflickr.com/3838/14482624830_5ba40a6084.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14482624830/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14482624830/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					'The Watkin path was named after Sir Edward Watkin, Liberal Member of Parliament and railway entrepreneur who retired to a chalet in Cwm Llan on the foothills of Snowdon.......' From David Shilston, Geological Society President 2012-2014, on the Geolsoc Blog (&lt;a href=&quot;http://blog.geolsoc.org.uk/2014/05/23/100-great-geosites-nomination-afon-cwm-llan-and-the-watkin-path-snowdon/&quot; rel=&quot;nofollow&quot;&gt;blog.geolsoc.org.uk/2014/05/23/100-great-geosites-nominat...&lt;/a&gt;)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> June 28th, 2003&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14464643617/in/set-72157646312747350</styleUrl>
+			<name>280. Shannon Pot in County Cavan</name>
+			<Snippet maxLines="4">
+				'The Shannon Pot, in Co. #Cavan is one of the most famous sites of the Marble Arch Caves Global #Geopark. This spring rising is traditionally regarded as the source of the River Shannon, the longest river in Ireland. <br />
+<br />
+<br />
+The pot itself is a large pool, 16 m in diameter, which has been dived to 9 m depth below which it becomes impassable. The water is sourced from many sinks in the #Cuilcagh uplands to the east, and largely travels underground in the Carboniferous Dartry Limestone Formation. The spring is particularly dramatic after heavy rain when the surface doming is very impressive. <br />
+<br />
+<br />
+Although a site of geological significance, what makes the Shannon Pot so special is the link that it has with Irish mythology. According to legend, the pot is named after Sionnan, who was the granddaughter of Manannán mac Lir, the god of the sea. She came to this spot to eat the Salmon of Knowledge that lived in the pool. The sight of Sionnan angered the Salmon who caused the waters of the pool to spring up and overwhelm her. She was drawn down into the pool and its water began to flow over the land, forming the River Shannon.' From Marble Arch Caves Global Geopark on Facebook
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14464643617/in/set-72157646312747350/"><img src="https://farm3.staticflickr.com/2909/14464643617_38be75f2a4.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14464643617/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14464643617/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					'The Shannon Pot, in Co. #Cavan is one of the most famous sites of the Marble Arch Caves Global #Geopark. This spring rising is traditionally regarded as the source of the River Shannon, the longest river in Ireland. <br />
+<br />
+<br />
+The pot itself is a large pool, 16 m in diameter, which has been dived to 9 m depth below which it becomes impassable. The water is sourced from many sinks in the #Cuilcagh uplands to the east, and largely travels underground in the Carboniferous Dartry Limestone Formation. The spring is particularly dramatic after heavy rain when the surface doming is very impressive. <br />
+<br />
+<br />
+Although a site of geological significance, what makes the Shannon Pot so special is the link that it has with Irish mythology. According to legend, the pot is named after Sionnan, who was the granddaughter of Manannán mac Lir, the god of the sea. She came to this spot to eat the Salmon of Knowledge that lived in the pool. The sight of Sionnan angered the Salmon who caused the waters of the pool to spring up and overwhelm her. She was drawn down into the pool and its water began to flow over the land, forming the River Shannon.' From Marble Arch Caves Global Geopark on Facebook<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> July 14th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_tag_left.gif" />  <a href="https://api.flickr.com/services/feeds/geo/?tags=cavan&amp;format=kml_nl&amp;lang=en-us">cavan</a>,&amp;nbsp; <a href="https://api.flickr.com/services/feeds/geo/?tags=geopark&amp;format=kml_nl&amp;lang=en-us">geopark</a>,&amp;nbsp; <a href="https://api.flickr.com/services/feeds/geo/?tags=cuilcagh&amp;format=kml_nl&amp;lang=en-us">cuilcagh</a><br />					<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/14263761923/in/set-72157646312747350</styleUrl>
+			<name>219. The Burren, Co. Clare</name>
+			<Snippet maxLines="4">
+				'The Burren in Co. Clare is one of the most iconic landscapes in Ireland. Formed from Visean limestone, the Burren is one of the finest examples of a glacio-karst landscape in the world. <br />
+<br />
+<br />
+Thousands of students, and millions of tourists visit the area every year. The unique geology has influenced the significant archaeological heritage and the biodiversity of the area and it is now part of the Burren and Cliffs of Moher Geopark.' From Earth Science Ireland on Facebook
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/14263761923/in/set-72157646312747350/"><img src="https://farm6.staticflickr.com/5503/14263761923_7a301b3509.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/14263761923/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/14263761923/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					'The Burren in Co. Clare is one of the most iconic landscapes in Ireland. Formed from Visean limestone, the Burren is one of the finest examples of a glacio-karst landscape in the world. <br />
+<br />
+<br />
+Thousands of students, and millions of tourists visit the area every year. The unique geology has influenced the significant archaeological heritage and the biodiversity of the area and it is now part of the Burren and Cliffs of Moher Geopark.' From Earth Science Ireland on Facebook<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> May 22nd, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/13967984395/in/set-72157646312747350</styleUrl>
+			<name>138. Upper Old Red Sandstone on Sugar Loaf, Brecon Beacons</name>
+			<Snippet maxLines="4">
+				'Icing on the cake: Upper Old Red Sandstone on Sugar Loaf' From Geraint Owen @gerainthowen<br />
+<br />
+Sugar Loaf is a mountain situated 2 miles (3.2 km) north-west of Abergavenny in Monmouthshire, Wales. It is the southernmost of the summit peaks of the Black Mountains, with a height of 1,955 feet (596 metres).  In common with the rest of the Black Mountains, the hill is formed from Old Red Sandstone which was laid down during the early Devonian Period. (Wikipedia)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/13967984395/in/set-72157646312747350/"><img src="https://farm8.staticflickr.com/7080/13967984395_de5f5cdfde.jpg" /></a>
+					<table border="0" padding="0" width="375"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/13967984395/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/13967984395/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					'Icing on the cake: Upper Old Red Sandstone on Sugar Loaf' From Geraint Owen @gerainthowen<br />
+<br />
+Sugar Loaf is a mountain situated 2 miles (3.2 km) north-west of Abergavenny in Monmouthshire, Wales. It is the southernmost of the summit peaks of the Black Mountains, with a height of 1,955 feet (596 metres).  In common with the rest of the Black Mountains, the hill is formed from Old Red Sandstone which was laid down during the early Devonian Period. (Wikipedia)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> April 22nd, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/13944884236/in/set-72157646312747350</styleUrl>
+			<name>139. The Stiperstones and Corndon Hill, Shropshire</name>
+			<Snippet maxLines="4">
+				From Geraint Owen @gerainthowen<br />
+<br />
+The Stiperstones is a distinctive hill in the county of Shropshire, England. It is a quartzite ridge formed some 480 million years ago. During the last Ice Age the summit stood out above the glaciers and was subject to constant freezing and thawing which shattered the quartzite into a mass of jumbled scree surrounding several residual rocky tors. Corndon Hill is a hill in Powys, Mid Wales, whose summit rises to 513 m above sea level. (Wikipedia)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/geolsoc/13944884236/in/set-72157646312747350/"><img src="https://farm3.staticflickr.com/2912/13944884236_0048619e63.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/geolsoc/13944884236/in/set-72157646312747350/"><img width="13" height="10" src="https://s.yimg.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/geolsoc/13944884236/in/set-72157646312747350/">Open photo page</a></td></tr></table>
+					From Geraint Owen @gerainthowen<br />
+<br />
+The Stiperstones is a distinctive hill in the county of Shropshire, England. It is a quartzite ridge formed some 480 million years ago. During the last Ice Age the summit stood out above the glaciers and was subject to constant freezing and thawing which shattered the quartzite into a mass of jumbled scree surrounding several residual rocky tors. Corndon Hill is a hill in Powys, Mid Wales, whose summit rises to 513 m above sea level. (Wikipedia)<br />
+					<hr />
+					<img width="15" height="15" src="https://s.yimg.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> April 22nd, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://api.flickr.com/services/feeds/geo/?id=99330142@N05&amp;format=kml_nl&amp;lang=en-us"><b>geologicalsociety</b></a><br />
+										<img width="15" height="15" src="https://s.yimg.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>,</coordinates>
+			</Point>
+		</Placemark>
+
+</Document>
+</kml>

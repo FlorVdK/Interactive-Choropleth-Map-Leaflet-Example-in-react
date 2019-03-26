@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>Autoroute 50 (Québec).kml</name>
+  <Style id="sn_placemark_circle_green">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.25</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_placemark_circle_yellow">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.25</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_placemark_circle_red">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.25</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<color>FFF00000</color>
+			<scale>1.0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>		
+	</Style>
+	<Style id="sn_placemark_square_yellow">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.25</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>		
+	</Style>
+	<Style id="sn_placemark_square_red">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.25</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>		
+	</Style>
+	<Style id="sh_placemark_square_highlight">
+		<IconStyle>
+			<color>FFF00000</color>
+			<scale>1.0</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>	
+	</Style>
+	<Style id="sn_truck">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/truck.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_truck">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/truck.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
+	</Style>	
+	<Style id="sn_path_green">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff14F000</color>
+			<width>4.0</width>
+		</LineStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>		
+	</Style>
+  <Style id="sn_path_yellow">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff14F0FF</color>
+			<width>3.0</width>
+		</LineStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>		
+	</Style>
+	<Style id="sn_path_orange">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>FF1478FF</color>
+			<width>3.0</width>
+		</LineStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>		
+	</Style>
+  <Style id="sh_path_highlight">
+		<IconStyle>
+			<scale>1.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>FFF00000</color>
+			<width>5.0</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="path">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_path_green</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_path_highlight</styleUrl>
+		</Pair>	
+	</StyleMap>
+  <StyleMap id="path_single">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_path_yellow</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_path_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+  <StyleMap id="path_construction">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_path_orange</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_path_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="ends">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square_red</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+  <StyleMap id="ends_int">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square_yellow</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+  <StyleMap id="exit">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle_green</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="exit_partial">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle_yellow</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="exit_atgrade">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle_red</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="truck">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_truck</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_truck</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Autoroute 50</name>
+		<open>1</open>
+		<Folder>
+			<name>Tracé</name>
+			<open>1</open>
+			<Placemark>
+				<name>Extrémité Ouest</name>
+				<styleUrl>#ends</styleUrl>
+				<Point>
+					<coordinates>-75.72839649221044,45.43013650916282,49.05481055426488</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Trajet - Section 1</name>
+				<styleUrl>#path</styleUrl>
+				<LineString>
+					<coordinates>
+						-75.72839094639203,45.43013925155227,0 -75.72824890473632,45.4305087950032,0 -75.72799091357096,45.43092719543621,0 -75.7279319595247,45.43130687302661,0 -75.72810042552175,45.43188547440942,0 -75.72833628599875,45.43250786390534,0 -75.7282667743176,45.43302622950283,0 -75.7279491432803,45.43417786590335,0 -75.72666408148973,45.43707825878439,0 -75.7259651034268,45.43935058177976,0 -75.72551488551491,45.44007009586389,0 -75.72319682110582,45.44271939403771,0 -75.72269274367783,45.44338263499729,0 -75.72184347128803,45.44480509020192,0 -75.72100384660159,45.44590183866664,0 -75.71998727459511,45.44688454684597,0 -75.71846937339315,45.44828043743449,0 -75.71705244934478,45.44958235508878,0 -75.71630435783882,45.45059149902176,0 -75.71592040751644,45.45172869560683,0 -75.71602584181477,45.45438904378644,0 -75.71626176415076,45.46104734032111,0 -75.71614979330242,45.46335204382115,0 -75.71461077191722,45.46921559191527,0 -75.71370488266109,45.47241573813849,0 -75.71344947660589,45.47369226628058,0 -75.71344895929829,45.47562924002183,0 -75.71392794832805,45.47882559298565,0 -75.71507769275104,45.48606878038532,0 -75.71621969617411,45.49336172029926,0 -75.71632404184658,45.49513833684551,0 -75.71593920956683,45.49675292533317,0 -75.7152975337742,45.49817570005317,0 -75.71438559602511,45.49947172222144,0 -75.71308552138277,45.50085187260188,0 -75.71124772607504,45.50205483325941,0 -75.70954959577357,45.50290272111193,0 -75.70732186842118,45.50361320589473,0 -75.70539186530864,45.50397948842141,0 -75.68741816109758,45.50636201308583,0 -75.67767637030812,45.50754536330371,0 -75.6610609670183,45.50963421849924,0 -75.6506144384787,45.51094468163203,0 -75.64752809199247,45.51120363326589,0 -75.64036240138033,45.5112632490252,0 -75.62544675793778,45.5112171454551,0 -75.59931269163884,45.51121527038661,0 -75.58926505922723,45.51131623342454,0 -75.58219446572278,45.51167520177825,0 -75.56233108258358,45.51340146324653,0 -75.55066898100741,45.51440203411248,0 -75.5472287441212,45.5150983202195,0 -75.53927059184041,45.51793730484798,0 -75.5155654137728,45.5270482280891,0 -75.49561059854409,45.5346217124577,0 -75.48125243976241,45.54003491479066,0 -75.47218773057,45.54227808543047,0 -75.45262314231728,45.54369132815827,0 -75.44465626050159,45.5451423558215,0 -75.43771021931089,45.54775211564577,0 -75.4299076842758,45.550894636371,0 -75.42084006482101,45.5543187009978,0 -75.40274538165534,45.56096051247446,0 -75.40047254840324,45.56175252766965,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Trajet - Section 2 (1 voie)</name>
+				<styleUrl>#path_single</styleUrl>
+				<LineString>
+					<coordinates>
+						-75.40051114466345,45.56178172607451,0 -75.39698930358064,45.56294676125189,0 -75.39300772323993,45.56442666155683,0 -75.38966022688992,45.56568612976825,0 -75.38751385788991,45.56675666187195,0 -75.38560516961485,45.56822415944286,0 -75.38413939245318,45.5700496744291,0 -75.383318828819,45.57188937340484,0 -75.38312900349887,45.57480533707661,0 -75.38345889915662,45.57672283609147,0 -75.38439178184416,45.58316828511887,0 -75.38536556893744,45.59000561554418,0 -75.3866345136276,45.59838638749792,0 -75.38742102535647,45.60440072454583,0 -75.38779816055238,45.60726554164864,0 -75.38777504346248,45.60863348935393,0 -75.38731685147708,45.61047198303564,0 -75.38606860056353,45.61267310683679,0 -75.38469986669111,45.61423990803456,0 -75.38233760377112,45.61601199408886,0 -75.38041535578685,45.61700016503619,0 -75.37769090794174,45.61792702647956,0 -75.37127070827154,45.61960181507934,0 -75.36308862501947,45.62171244828946,0 -75.35479744607387,45.62383921972394,0 -75.35072535059406,45.62488855004694,0 -75.34657032638256,45.62599344750833,0 -75.3424012224057,45.62678017779991,0 -75.34012300240654,45.62709803969103,0 -75.33740746283867,45.62732891383692,0 -75.33496002307737,45.62737099768744,0 -75.33259308340065,45.62735532104174,0 -75.33181135990792,45.62732466902523,0 -75.32880186170242,45.62710734802267,0 -75.32454862787591,45.6266824065663,0 -75.32108026648309,45.62636308508205,0 -75.31798670797751,45.62609426468384,0 -75.31302625879486,45.62579926853572,0 -75.3085207277318,45.6256750146522,0 -75.30032971359711,45.62528829895827,0 -75.28798063723261,45.62351751366237,0 -75.27759137766574,45.62214426107428,0 -75.27129747284086,45.62185777898572,0 -75.26685584096478,45.62212541246066,0 -75.25947788387444,45.62296693482216,0 -75.24631769590515,45.62448585304843,0 -75.2376497257714,45.62510479919089,0 -75.2301692992431,45.62519207453863,0 -75.21629798294038,45.62591703385036,0 -75.20481636618683,45.62679865728728,0 -75.19283200685592,45.62808770331088,0 -75.18595018041496,45.62990957500864,0 -75.18058305189778,45.63227239328776,0 -75.17350458106438,45.63670025990897,0 -75.1686154693945,45.63956009330104,0 -75.16178457483741,45.64286071387235,0 -75.15332684599163,45.64495515883669,0 -75.14457033680304,45.64623276384427,0 -75.13266744320407,45.64653857766324,0 -75.1223418765651,45.64634391709439,0 -75.09385074698106,45.64600638789872,0 -75.06493078273688,45.64587427825171,0 -75.06075694185212,45.64646944221113,0 -75.05705502983245,45.64766558851396,0 -75.05124619659838,45.65012376074134,0 -75.037622349817,45.65614713552674,0 -75.02706410043987,45.66083267524657,0 -75.02121321199225,45.66283789494314,0 -75.01803132954014,45.66377401717843,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Trajet - Section 3</name>
+				<styleUrl>#path</styleUrl>
+				<LineString>
+					<coordinates>
+						-75.01805328274175,45.66375921884151,0 -75.01060101889949,45.66487560034828,0 -74.99147669154171,45.66773701649773,0 -74.97441398692212,45.6713380334829,0 -74.96202132428327,45.67358433713568,0 -74.95201329722745,45.67357396401425,0 -74.94023943060071,45.67415912663217,0 -74.92890966093614,45.67333009567015,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Trajet - Section 4 (1 voie)</name>
+				<styleUrl>#path_single</styleUrl>
+				<LineString>
+					<coordinates>
+						-74.92862396593128,45.67325295445951,0 -74.90760653310164,45.66873028198957,0 -74.88019136482619,45.66260331933706,0 -74.86889130305767,45.65843380552097,0 -74.85589256446433,45.65457244318301,0 -74.8487540594344,45.65373038744531,0 -74.82621875790095,45.65334357722252,0 -74.80549227332541,45.65282228750178,0 -74.78865609968018,45.65190563422199,0 -74.77789392591265,45.65215100394756,0 -74.76614645369494,45.65171294038731,0 -74.74767188976634,45.65126471784964,0 -74.73578007623556,45.65007644524854,0 -74.72346948834004,45.6486278596938,0 -74.71619367160289,45.64810835707929,0 -74.7062876830183,45.64715423034573,0 -74.70310966869738,45.64695768848788,0 -74.696578981334,45.64783798364914,0 -74.68945331071639,45.64950012613976,0 -74.68429232994249,45.6514908722359,0 -74.67523497613831,45.65367120159343,0 -74.66758781386251,45.65608897746283,0 -74.66521853026265,45.65710460455406,0 -74.66223513825655,45.65854575911133,0 -74.65854396430224,45.65879936494413,0 -74.65868602696025,45.65888336663029,0 -74.65861499862528,45.65884136711551,0 -74.6567245207778,45.65884229180067,0 -74.64763839898649,45.65887152567639,0 -74.64390562943196,45.65890307456169,0 -74.64054740366667,45.65861146289836,0 -74.63561600723817,45.65744716117759,0 -74.63252934420713,45.65657912869197,0 -74.62801004744306,45.65605986263962,0 -74.62505351340623,45.65578716372905,0 -74.61817591876064,45.65523434467205,0 -74.61230224001743,45.65511327776755,0 -74.60466691907965,45.65573714662907,0 -74.60146660947966,45.6558286981085,0 -74.59694750697567,45.65598114771812,0 -74.5941013808098,45.65576515171131,0 -74.58948044499083,45.65521408561146,0 -74.58308471118298,45.654498701938,0 -74.57764809726164,45.65390063919086,0 -74.57263632044254,45.65341664091216,0 -74.56709962313731,45.65282050599193,0 -74.55306977829709,45.65143267907045,0 -74.51714821551384,45.64748895761178,0 -74.48540166612669,45.64364504752306,0 -74.46668308350542,45.64096605662939,0 -74.44828342052105,45.63807597052455,0 -74.42716151938725,45.63484413269894,0 -74.40704123373037,45.63174726612327,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Trajet - Section 5</name>
+				<styleUrl>#path</styleUrl>
+				<LineString>
+					<coordinates>
+						-74.40696984943315,45.63168886199281,0 -74.39823446703603,45.63010158255043,0 -74.38856507985395,45.62760397189842,0 -74.38360044944089,45.62644947324101,0 -74.36063197045875,45.62326479480757,0 -74.35398468344411,45.62248372759036,0 -74.35156071318487,45.62279236059189,0 -74.34791131413041,45.62399301568389,0 -74.33699565550292,45.62895979019763,0 -74.32570412052981,45.63402786204317,0 -74.3164212320298,45.63809859580654,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Trajet - Section 6 (1 voie)</name>
+				<styleUrl>#path_single</styleUrl>
+				<LineString>
+					<coordinates>
+						-74.31641165723795,45.63812875620945,0 -74.31427502886177,45.63866990066815,0 -74.31107486347027,45.63938905154929,0 -74.30714362904622,45.63976136694181,0 -74.29826366136096,45.64047597649164,0 -74.28168474789759,45.6416490991881,0 -74.26731613166963,45.64278723358954,0 -74.26143178211203,45.64343947977873,0 -74.24868406675802,45.64559818582927,0 -74.23538240162567,45.64799774177532,0 -74.23102387662219,45.6498936855699,0 -74.22570222417561,45.65306742403365,0 -74.21405216405503,45.65954802895656,0 -74.20807095549034,45.66298843362056,0 -74.20001776378014,45.66717285385601,0 -74.19226919622135,45.67066677844377,0 -74.18733789560619,45.67297212669222,0 -74.18347073424482,45.67478742308289,0 -74.17694693378004,45.67764195645447,0 -74.17080060428745,45.67920218770353,0 -74.15987386046442,45.68011427819478,0 -74.13350536482103,45.68233335235353,0 -74.10820369801901,45.68440187568144,0 -74.09476635922266,45.68554860689003,0 -74.09136647865849,45.68549212511607,0 -74.08716635605353,45.68504459749736,0 -74.06681229970282,45.68297404606022,0 -74.04930399426659,45.68214664597957,0 -74.04306421348122,45.68182498921377,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Traject - Section 7</name>
+				<styleUrl>#path</styleUrl>
+				<LineString>
+					<coordinates>
+						-74.04297594607858,45.68179215156151,0 -74.04073494412633,45.68191255498343,0 -74.0373733858067,45.68267464175617,0 -74.03452572531722,45.68357928371013,0 -74.02921598962432,45.68620460020157,0 -74.02586338884812,45.6882957658099,0 -74.01224706554915,45.69783157815568,0 -74.0068873888259,45.70151547217897,0 -74.00443555193792,45.70278707969189,0 -73.99941258631054,45.70604220877557,0 -73.99494247193284,45.70899064637881,0 -73.98231414029136,45.71783217331806,0 -73.97849251831977,45.71923129395577,0 -73.97103537165773,45.72016706098776,0 -73.96876679142055,45.72026173473466,0 -73.96721373689596,45.7205110705486,0 -73.96457277407235,45.7212356250807,0 -73.96295431953598,45.72201500377854,0 -73.96101474853303,45.72331885778532,0 -73.95930195837188,45.72456318690954,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Extrémité Est</name>
+				<open>1</open>
+				<styleUrl>#ends</styleUrl>
+				<Point>
+					<coordinates>-73.95930557206439,45.72455954166988,49.05481055426488</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sorties</name>
+			<open>1</open>
+			<Placemark>
+				<name>Sortie 134</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.72778149607443,45.43428909370796,49.82928050879531</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 136</name>
+				<styleUrl>#exit_partial</styleUrl>
+				<Point>
+					<coordinates>-75.72091485894981,45.4459412487504,53.05929281704351</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 138</name>
+				<open>1</open>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.71626582528282,45.4617833597132,53.05929281704351</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 139</name>
+				<styleUrl>#exit_partial</styleUrl>
+				<Point>
+					<coordinates>-75.71504593003297,45.4674276895844,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 140</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.71341937650976,45.47361851529574,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 141</name>
+				<styleUrl>#exit_partial</styleUrl>
+				<Point>
+					<coordinates>-75.71499017668644,45.48615362523022,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 145</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.6775120004956,45.50755921234282,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 147</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.64405807087485,45.51122315210618,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 150</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.61010625441151,45.51122121108411,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 154</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.56229095580986,45.51340125402244,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 159</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.49725188123747,45.53400051447511,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 165</name>
+				<styleUrl>#exit_partial</styleUrl>
+				<Point>
+					<coordinates>-75.43907904984114,45.54725429905061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 166</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.41851926718297,45.55515885732547,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 171</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.38349387913954,45.57716229098777,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 174</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.38773666895611,45.60729154379587,0</coordinates>
+				</Point>
+			</Placemark>			
+			<Placemark>
+				<name>Poste Véhicule Lourd</name>
+				<styleUrl>#truck</styleUrl>
+				<Point>
+					<coordinates>-75.34728978982569,45.62549968444502,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 187</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.23397327759498,45.62515951045535,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 197</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.11283832016615,45.64622197900475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 203</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-75.02312511632034,45.66219552069496,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 210</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.94223288040018,45.67410402310794,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 216</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.86908802477407,45.65824901341971,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 226</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.74639881353163,45.65115290388265,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 233</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.65915852470455,45.65872534198094,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 239</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.58178442916818,45.65427306307435,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 252</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.42350946131675,45.63435054563217,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 254</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.39442839493347,45.62913475640422,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 258</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.35287895770682,45.62263438456301,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 260</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.32574154793249,45.63401213329023,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 272</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.18347985830371,45.67488438941653,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 279</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.09984298354097,45.68520647854676,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Intersection à niveau</name>
+				<styleUrl>#exit_atgrade</styleUrl>
+				<Point>
+					<coordinates>-74.07889875411568,45.68417998648064,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Intersection à niveau</name>
+				<styleUrl>#exit_atgrade</styleUrl>
+				<Point>
+					<coordinates>-74.06418984101791,45.68287870960526,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Intersection à niveau</name>
+				<styleUrl>#exit_atgrade</styleUrl>
+				<Point>
+					<coordinates>-74.04932071198355,45.68216807893741,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 285</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.03724293192333,45.68268511772924,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 288</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-74.01023018626239,45.6992876210282,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sortie 292</name>
+				<styleUrl>#exit</styleUrl>
+				<Point>
+					<coordinates>-73.97067659628679,45.72015841650248,0</coordinates>
+				</Point>
+			</Placemark>			
+		</Folder>
+	</Folder>
+</Document>
+</kml>

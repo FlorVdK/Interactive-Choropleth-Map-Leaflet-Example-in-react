@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Leaflet</title>
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet-src.js"></script>
+<script src="../layer/vector/KML.js"></script>
+</head>
+<body>
+
+<div style="width:100%; height:100%" id="map"></div>
+<script type='text/javascript'>
+var map = new L.Map('map', {center: new L.LatLng(-71.324739,-40.139527), zoom: 6});
+var osm = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+//var track1 = new L.KML("data/folder.kml");
+var track2 = new L.KML("data/autour_de_pleumeur.kml").addTo(map);
+//var track4 = new L.KML("data/ol.kml");
+//var track3 = new L.KML("data/icon.kml");
+track2.on("loaded", function(e) {
+	map.fitBounds(e.target.getBounds());
+});
+/*
+map.addControl(new L.Control.Layers({}, {
+	'Folder':track1,
+	'Pleumeur':track2,
+	'Icon':track3,
+	'OL':track4,
+}));
+*/
+map.on("overlayadd", function(e) {
+	map.fitBounds(e.layer.getBounds());
+});
+//L.marker([55.652639,37.528861]).bindPopup('hop').addTo(map);
+</script>
